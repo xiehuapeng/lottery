@@ -1,0 +1,27 @@
+body {
+    background: linear-gradient(135deg, #f3f4f7, #eaf0f9);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.container {
+    max-width: 900px;
+}
+
+button {
+    margin-top: 20px;
+}
+
+.card {
+    border-radius: 10px;
+    overflow: hidden;
+}
+
+.card-header {
+    font-size: 1.2rem;
+}
+
+.list-group-item {
+    text-align: center;
+    font-size: 1rem;
+    font-weight: bold;
+}
